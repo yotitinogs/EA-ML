@@ -1,5 +1,9 @@
 # EA-ML
-Main.py -> Main file of the EA framework. This procedure uses the following files respecting the indicated order.
+
+Data_Set.rar -> Instances provided by "P. M. Cota, B. M. Gimenez, D. P. Araújo, T. H. Nogueira, M. C. de Souza, M. G. Ravetti,
+Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre, Computers & Industrial Engineering 95 (2016) 135–143."
+
+Main.py -> Main file of the EA framework. This procedure uses the following files respecting the indicated order:
 
 1) Kluster.py -> This procedure defines the samples of instances to perform the training of the EA algorithm. They are chosen by KMeans.
 2) Optuna.py -> This procedure defines a data set with the optimum EA parameter for each instance's classes.
