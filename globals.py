@@ -1,0 +1,11 @@
+def initialize(): 
+    global n1
+    global n2
+    global maq1
+    global maq2
+    global p1
+    global p2
+    global Prec
+    global  model
+    global scalerI
+    global scalerO
